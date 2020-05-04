@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P02-Holidays</string>
+
+    <array name="arrayTypes">
+        <item>Secular</item>
+        <item>Ethnic, Religion</item>
+    </array>
+</resources>
